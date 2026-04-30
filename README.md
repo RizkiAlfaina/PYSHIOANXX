@@ -462,17 +462,3 @@ cp -r sensor/data/ backup/sensor_data_$(date +%Y%m%d)
 cp -r rf/*.pkl pengumpulan/*.h5 backup/models_$(date +%Y%m%d)
 ```
 
-## 👥 Tim Pengembang
-
-**Biomedical Engineering ITERA**
-- Hardware Integration
-- Machine Learning Pipeline
-- Web Interface Development
-
-## 📜 License
-
-Developed for research purposes by Biomedical Engineering ITERA.
-
----
-
-*README ini menjelaskan sistem PhysioAnx secara lengkap. Untuk informasi lebih detail, lihat dokumentasi kode di masing-masing modul.*
