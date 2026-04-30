@@ -1,0 +1,51 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files that exceed GitHub's 100MB limit
+pyshioanx/SKRIPSI/tailwindcss
+*.pt
+*.h5
+*.joblib
+*.pkl
+*.onnx
+*.torchscript
+service_account.json
+
+# Logs
+*.log
+
+# Sensitive files
+*.json
+*.key
+*.pem
+
+# # Model files (optional - comment out if you want to include them)
+# *.h5
+# *.pkl
+# *.joblib
+
+# Data files
+*.csv
+*.xlsx
+
+# Temporary files
+*.tmp
+*.temp
